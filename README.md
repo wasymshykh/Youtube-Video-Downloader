@@ -6,4 +6,10 @@ Requires visual studio 2015 or above. Built on .Net framework 6.0, not sure if i
 
 **Open downloader software**  run _"Software/YTDownloader.exe"_ [ignore windows defender warning]
 
+
+
+![alt text](https://github.com/wasymshykh/Youtube-Video-Downloader/blob/master/src/gif/DownloadVideo.gif "Download Demo")
+
+
+
 Thank you!
